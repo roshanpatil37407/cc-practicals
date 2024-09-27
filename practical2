@@ -1,0 +1,49 @@
+Title: Installation and Configuration of JustCloud.
+
+Step 1:Open your browser (e.g., Chrome, Firefox, or Edge).
+506 Lab on Cloud Computing Page No
+Step 2:In the address bar at the top, type 
+https://www.justcloud.com/download and hit Enter.
+Step 3 :click on the Download Application download will automatically start
+
+2. Install JustCloud:
+Step 1: Once the file is downloaded, go to your Downloads folder. Look for the 
+JustCloud installer file (JustCloud_WebInstaller .exe for Windows or .dmg for 
+macOS).
+Step 2: Double-click the installer file with the left mouse button to start the 
+installation process
+Step 3: If prompted by a security warning, click "Yes"
+Step 4: click on Install button
+
+Step 5 : Once completed, click "Finish" to launch JustCloud.
+
+2. Create or Log into Your JustCloud Account :
+Step 1 : After installation, JustCloud will automatically open.
+506 Lab on Cloud Computing Page No
+Step 2: On the login screen
+ 
+• If you already have an account, enter your username and password and click 
+"Log In" with the left mouse button.
+• If you don’t have an account, click "Sign Up" at the bottom left of the screen
+
+
+3. Set Up Backup:
+1) Once logged in, you’ll see the JustCloud dashboard.
+2) On the dashboard, find the Settings icon (gear symbol) in the top right.
+3) Click "Backup Settings" on the left side.
+4) Choose the file types (photos, music, documents) you want to back up by 
+checking the boxes.
+5) Select the folders you want by clicking "Browse" on the right side.
+6) Click "Apply".
+
+
+4. Start the Backup:
+1) Click the "Start Backup" button in the center of the screen.
+2) JustCloud will begin backing up your files.
+3) Watch the progress bar at the bottom.
+
+
+5. Restore Files:
+1) If you want to restore files, click the "Restore" tab at the top left.
+2) Pick the files or folders you want to restore, then click "Restore Now" on 
+the bottom right.

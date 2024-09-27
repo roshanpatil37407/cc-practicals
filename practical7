@@ -1,0 +1,85 @@
+Title: Data Analytics on the Cloud (Salesforce):
+
+
+1. Log in to Salesforce:
+
+Step 1: Open Google Chrome
+Step 2: search for salesforce login
+Step 3: Enter your username and password, and click the "Log in" 
+button (top-right side).
+Step 4: Verify your identity in Salesforce
+
+Step 5: Once logged in, you will be on the Salesforce dashboard.
+Step 6: Once logged in, you will be on the Salesforce dashboard.
+
+2 .Navigate to the Reports Tab
+
+Step 1: Click the "App Launcher" button (top-left corner, represented 
+by 9 dots).
+Step 2: Search for "Reports" in the search bar and click on the 
+"Reports" tab (left-side list).
+Step 3: This will take you to the Reports section where you can 
+manage and create reports.
+
+
+3: Create a New Report
+
+Step 1: On the Reports page, click the "New Report" button (top-right 
+corner).
+Step 2: Select All then you select the type of report you want to create 
+(e.g., Accounts, Opportunities, Leads).
+Step 3: Click the "Start Report" button (right).
+
+
+4: Customize Your Report
+
+Step 1: Choose your data filters by clicking on the "Filters" pane (left 
+side).
+Step 2: Click on the Created Date
+Step 3: Click on the Range select All Time and Click on the Apply
+Step 4: Click on Update Preview Automatically on the (top-right 
+corner).
+Step 5: Add Filter
+Step 6: I can select the Rating
+Step 7: Go to the Value and select any one from the dropdown list
+Step 8: the report will be sorted according to the filters you’ve applied:
+Step 9: After running the report, click the "Save & Run" button (topright corner).
+Step 10: Enter a name for your report (e.g., "Sales Performance 
+Report") and choose a folder to save it in.
+Step 11: Click the "Save" button (bottom-right).
+
+
+5.Create a Dashboard for Data Visualization
+
+
+Step 1: Go to the App Launcher button (top-left corner, represented by 
+9 dots).
+Step 2: Search for "Dashboards" and click on it (left-side list).
+Step 3: On the Dashboards page, click the "New Dashboard" button 
+(top-right corner).
+Step 4: Enter a dashboard name (e.g., "Sales Overview") and select a 
+folder to save it in.
+Step 5: Click the "Create" button (bottom-right).
+
+6: Add Components to the Dashboard
+
+Step 1: Click on "Add Component" (top-right corner).
+Step 2:Click on the Chart or Table
+Step 3: Choose a report from the list (you can use the one you created 
+earlier).
+Step 4: Click the "Add" button (bottom-right).
+Step 5: You can drag and drop components on the dashboard to arrange 
+them.
+Step 6: You can also add an image to your dashboard by clicking on the 
+“Widget” dropdown and clicking on “Image” button:
+Step 7: You can now browse and select an image you would like to add to your 
+dashboard scale(stretch) click on add
+
+
+7: Save and View the Dashboard
+
+
+Step 1: After adding all necessary components, click the "Save" button (topright corner)
+Step 2: Click the "Done" button (bottom-right) to view your completed 
+dashboard.
+

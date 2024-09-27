@@ -1,0 +1,50 @@
+Title: Introduction to Cloud CRM (Salesforce).
+
+
+
+
+1: Create a Salesforce Developer Account
+Step1: Go to Google Chrome.
+Step 2: Search for “Developer Edition Signup” on a browser and click on the 
+ official link 
+Step 3: Fill in your details:
+Step 4: Click on: "Sign Me Up" (Right side button)
+Step 5: Verify your email:
+
+
+A) Go to Google Chrome.
+B) Search for “Email” on a browser and click on the official link
+C)Check your inbox for the verification email from Salesforce.
+D) Click on the link in the email to verify your account.( Change Your Password )
+
+
+2: Log into Salesforce Developer Account
+Step1: Go to Google Chrome.
+Step 2: Search for “ Salesforce login ” on a browser and click on the 
+ official link 
+Step 3: Enter your
+• Username (email you used for signing up)
+• Password 
+
+
+3: Understand the Salesforce Interface
+Step 1:Enter Salesforce: Once logged in, you'll be in your Salesforce 
+environment.
+Step 2:Go to the App Launcher: On the top left, you'll see the App Launcher 
+(the icon with 9 dots).
+Step 3: Search for "Accounts": In the search bar within the App Launcher, type 
+"Accounts" and select it.
+Step 4: Create a New Account: Once you're in the Accounts section, click on 
+the "New" button to create a new account.
+Step 5:Fill in Account Information: Provide the account details
+Step 6:Save the New Account: After filling out the account details, click "Save" 
+to create the new account.
+Step 7 :Open the New Account: Once saved, you'll be taken to the new 
+account's page.
+Step 8: Create a New Contact: In the account’s details page, look for the 
+"Contacts" section and click "New" to add a new contact.
+Step 9 :Fill in Contact Information: Enter the contact details, like:
+Step 10 : Send an Email: In the new contact's page, go to the "Activity" section 
+on the right side. 
+Step 11 :Here, you'll see an option to send an email.
+Step 12:Here, send an email to Contact.

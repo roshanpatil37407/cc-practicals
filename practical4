@@ -1,0 +1,45 @@
+Title: Setting up a Cloud Environment with OpenStack .
+
+
+
+1. Create a New Virtual Machine:
+
+
+Step 1 : Open VirtualBox: Launch VirtualBox from your desktop or Start menu.
+ Click on the machine Located at the top-left of the VirtualBox window.
+Step 2 : Click on "New" button
+Step 3: A pop-up window titled "Create Virtual Machine" will appear
+Step 4: In the "Name" field, give a name to your VM.
+Step 5: Select the Type of the OS (e.g ubuntu, Linux, Windows) 
+Step 6 : Set the Username and Password Click "Next."
+Step 7: Allocate Memory (Select the size of memory & no of CPU cores you want to 
+allocate to your VM) Click "Next."
+Step 8: Create a Virtual Hard Disk (Select the size of storage you want to 
+allocate) Click "Next."
+Step 8: Summary(Verify if the information about your VM is correct ) click on finish
+506 Lab on Cloud Computing Page No
+Step 8: Start the VM(In the main VirtualBox window, click the Start button at the top)
+Step 8: Now you need to setup your OS click on the Ubuntu(safe Graphics)
+Step 9: naw you can used the ubuntu
+
+
+2. Steps to Install OpenStack on Ubuntu VM Click on the terminal :
+
+Step 1: Update Ubuntu System
+
+Step 2: Create a Stack User
+
+Step 3: Install OpenStack DevStack on Ubuntu
+Once you have successfully created the user ‘stack’ and assigned sudo 
+privileges, switch to the user using the command.
+
+
+Step 4: Create devstack configuration file :
+
+Step 5: Start DevStack Installation
+
+Step 6: Accessing OpenStack on a web browser:
+
+
+
+

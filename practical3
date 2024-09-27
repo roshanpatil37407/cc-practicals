@@ -1,0 +1,43 @@
+
+Title: Implementing Virtual Machines with VirtualBox:
+
+
+1) Download and Install VirtualBox:
+Step 1: Go to Google Chrome.
+506 Lab on Cloud Computing Page No
+Step 2: Search for “Oracle VM VirtualBox” on a browser and click on the 
+ official link 
+Step 3: click on the Download VirtualBox 7.0. 20
+Step 4: Choose your operating system (Windows, macOS, Linux) header select 
+your "VirtualBox Platform Packages" and click the corresponding link.
+Step 5: Wait for Downloading file
+ Step 6: Once the file is downloaded, go to your Downloads folder. Look for the Just 
+installer file
+Step 7: Double-click the installer file with the left mouse button to start the 
+installation process
+Step 8: After installation is complete, launch VirtualBox.
+
+
+2. Download an Operating System ISO
+Step 1: Select an OS: Visit the official website of your preferred operating 
+system (e.g., Ubuntu)
+Step 2: click on the Download 24.04 LTS
+Step 3 : Downloading is started 
+
+
+3. Create a New Virtual Machine:
+Step 1 : Open VirtualBox: Launch VirtualBox from your desktop or Start menu.
+ Click on the machine Located at the top-left of the VirtualBox window.
+Step 2 : Click on "New" buttonStep 3: A pop-up window titled "Create Virtual Machine" will appear
+Step 4: In the "Name" field, give a name to your VM.
+Step 5: Select the Type of the OS (e.g ubuntu, Linux, Windows) 
+Step 6 : Set the Username and Password Click "Next."
+Step 7: Allocate Memory (Select the size of memory & no of CPU cores you want to 
+allocate to your VM) Click "Next."
+Step 8: Create a Virtual Hard Disk (Select the size of storage you want to 
+allocate) Click "Next."
+Step 9: Summary(Verify if the information about your VM is correct ) click on 
+finish
+Step 10: Start the VM(In the main VirtualBox window, click the Start button at the top)
+Step 11: Now you need to setup your OS click on the Ubuntu(safe Graphics)
+Step 12: naw you can used the ubuntu.

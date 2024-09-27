@@ -1,0 +1,460 @@
+Title: Working on Google Drive to Make Spreadsheets and Notes.
+
+1. Creating a Google Account:
+Step 1: Open Google Chrome
+Step 2 : go to the [Google Account Creation 
+Page](https://accounts.google.com/signup). 
+Step 3: Enter your name
+Step 4: Enter your birthday and gender
+Step 5: Create a Gmail address for signing in to your Google Account
+Step 6: Create a strong password.
+Step 7: Enter your phone number for verification.
+Step 8: Google will send a verification code via SMS. Enter the code 
+when prompted
+Step 9: Provide a recovery email
+Step 10: Agree to the terms and conditions.
+Step 11: Your Google account will be created, and you'll be redirected 
+to your Google dashboard
+
+
+A)For Google Sheets:
+Step 1: Open Google Chrome
+Step 2: search for google account sign in
+Step 3: click on the google apps
+Step 4: click on the google drive
+Step 5: On the Google Drive home page, click the + New button in the top-left 
+corner.
+Step 6: From the dropdown menu, select Google Sheets
+506 Lab on Cloud Computing Page No
+(Or) Search Google Sheets on the browser and click on the official link of Google 
+Workspace
+Step 7: Sign in to Google Sheets and select a blank document.
+Step 8: A new spreadsheet will open in a new tab. You can start editing it by 
+entering data into the cells.
+Step 9: Make a random table.
+Step 10: Rename the document as needed.
+Step 11: click on “in my Drive” option.
+Step 12: Now create a folder by clicking on the button on bottom left 
+of dialog box
+Step 13: Open the folder and click on “Move” button:
+Step 14: Click on move :
+Step 15: Practical has finished, now you can see the folder with the file 
+created in your respective Google Drive account
+
+
+b)For Google Docs:
+Step 1: Open Google Chrome
+Step 2: search for google account sign in
+506 Lab on Cloud Computing Page No
+Step 3: click on the google apps
+Step 4: click on the google drive
+Step 5: On the Google Drive home page, click the + New button in the top-left 
+corner.
+Step 6: From the dropdown menu, select Google Docs
+(or) Search Google Sheets on the browser and click on the official link 
+of Google Workspace
+Step 7: select a blank document.
+Step 8: Open it and write a random paragraph
+Step 9: Rename the document as needed.
+Step 10: click on “in my Drive” option:
+Step 11: click on “in my Drive” option:
+506 Lab on Cloud Computing Page No
+Step 12: Now create a folder by clicking on the button on bottom left :
+Step 13: Click on move :
+Step 14: Practical has finished, now you can see the folder with the file 
+created in your respective Google Drive account.
+
+
+
+
+Title: Installation and Configuration of JustCloud.
+
+Step 1:Open your browser (e.g., Chrome, Firefox, or Edge).
+506 Lab on Cloud Computing Page No
+Step 2:In the address bar at the top, type 
+https://www.justcloud.com/download and hit Enter.
+Step 3 :click on the Download Application download will automatically start
+
+2. Install JustCloud:
+Step 1: Once the file is downloaded, go to your Downloads folder. Look for the 
+JustCloud installer file (JustCloud_WebInstaller .exe for Windows or .dmg for 
+macOS).
+Step 2: Double-click the installer file with the left mouse button to start the 
+installation process
+Step 3: If prompted by a security warning, click "Yes"
+Step 4: click on Install button
+
+Step 5 : Once completed, click "Finish" to launch JustCloud.
+
+2. Create or Log into Your JustCloud Account :
+Step 1 : After installation, JustCloud will automatically open.
+506 Lab on Cloud Computing Page No
+Step 2: On the login screen
+ 
+• If you already have an account, enter your username and password and click 
+"Log In" with the left mouse button.
+• If you don’t have an account, click "Sign Up" at the bottom left of the screen
+
+
+3. Set Up Backup:
+1) Once logged in, you’ll see the JustCloud dashboard.
+2) On the dashboard, find the Settings icon (gear symbol) in the top right.
+3) Click "Backup Settings" on the left side.
+4) Choose the file types (photos, music, documents) you want to back up by 
+checking the boxes.
+5) Select the folders you want by clicking "Browse" on the right side.
+6) Click "Apply".
+
+
+4. Start the Backup:
+1) Click the "Start Backup" button in the center of the screen.
+2) JustCloud will begin backing up your files.
+3) Watch the progress bar at the bottom.
+
+
+5. Restore Files:
+1) If you want to restore files, click the "Restore" tab at the top left.
+2) Pick the files or folders you want to restore, then click "Restore Now" on 
+the bottom right.
+
+
+
+
+Title: Implementing Virtual Machines with VirtualBox:
+
+
+1) Download and Install VirtualBox:
+Step 1: Go to Google Chrome.
+506 Lab on Cloud Computing Page No
+Step 2: Search for “Oracle VM VirtualBox” on a browser and click on the 
+ official link 
+Step 3: click on the Download VirtualBox 7.0. 20
+Step 4: Choose your operating system (Windows, macOS, Linux) header select 
+your "VirtualBox Platform Packages" and click the corresponding link.
+Step 5: Wait for Downloading file
+ Step 6: Once the file is downloaded, go to your Downloads folder. Look for the Just 
+installer file
+Step 7: Double-click the installer file with the left mouse button to start the 
+installation process
+Step 8: After installation is complete, launch VirtualBox.
+
+
+2. Download an Operating System ISO
+Step 1: Select an OS: Visit the official website of your preferred operating 
+system (e.g., Ubuntu)
+Step 2: click on the Download 24.04 LTS
+Step 3 : Downloading is started 
+
+
+3. Create a New Virtual Machine:
+Step 1 : Open VirtualBox: Launch VirtualBox from your desktop or Start menu.
+ Click on the machine Located at the top-left of the VirtualBox window.
+Step 2 : Click on "New" buttonStep 3: A pop-up window titled "Create Virtual Machine" will appear
+Step 4: In the "Name" field, give a name to your VM.
+Step 5: Select the Type of the OS (e.g ubuntu, Linux, Windows) 
+Step 6 : Set the Username and Password Click "Next."
+Step 7: Allocate Memory (Select the size of memory & no of CPU cores you want to 
+allocate to your VM) Click "Next."
+Step 8: Create a Virtual Hard Disk (Select the size of storage you want to 
+allocate) Click "Next."
+Step 9: Summary(Verify if the information about your VM is correct ) click on 
+finish
+Step 10: Start the VM(In the main VirtualBox window, click the Start button at the top)
+Step 11: Now you need to setup your OS click on the Ubuntu(safe Graphics)
+Step 12: naw you can used the ubuntu.
+
+
+Title: Setting up a Cloud Environment with OpenStack .
+
+
+
+1. Create a New Virtual Machine:
+
+
+Step 1 : Open VirtualBox: Launch VirtualBox from your desktop or Start menu.
+ Click on the machine Located at the top-left of the VirtualBox window.
+Step 2 : Click on "New" button
+Step 3: A pop-up window titled "Create Virtual Machine" will appear
+Step 4: In the "Name" field, give a name to your VM.
+Step 5: Select the Type of the OS (e.g ubuntu, Linux, Windows) 
+Step 6 : Set the Username and Password Click "Next."
+Step 7: Allocate Memory (Select the size of memory & no of CPU cores you want to 
+allocate to your VM) Click "Next."
+Step 8: Create a Virtual Hard Disk (Select the size of storage you want to 
+allocate) Click "Next."
+Step 8: Summary(Verify if the information about your VM is correct ) click on finish
+506 Lab on Cloud Computing Page No
+Step 8: Start the VM(In the main VirtualBox window, click the Start button at the top)
+Step 8: Now you need to setup your OS click on the Ubuntu(safe Graphics)
+Step 9: naw you can used the ubuntu
+
+
+2. Steps to Install OpenStack on Ubuntu VM Click on the terminal :
+
+Step 1: Update Ubuntu System
+
+Step 2: Create a Stack User
+
+Step 3: Install OpenStack DevStack on Ubuntu
+Once you have successfully created the user ‘stack’ and assigned sudo 
+privileges, switch to the user using the command.
+
+
+Step 4: Create devstack configuration file :
+
+Step 5: Start DevStack Installation
+
+Step 6: Accessing OpenStack on a web browser:
+
+
+
+
+
+
+
+Title: Setting Up a Simple Website on GitHub:
+
+
+1. Create a GitHub Repository
+Step 1: Search for GitHub in a browser.
+Step 2: Log in to your GitHub account.
+Step 3: On the top-right corner, click the + icon, then select New 
+repository from the dropdown.
+Step 4: Name your repository (e.g., my-website), set it to Public, and 
+tick the "Initialize this repository with a README" option..
+Step 5:Click the "Create repository" button (bottom of the form).
+ 
+2: Upload Your Website Files
+Step 1: Click the "Add file" button (top-right side).
+Step 2: Select "Upload files" from the dropdown.
+Step 3:select all files(Ctrl + A)
+Step 4: Drag and drop your website files (HTML, CSS, images) into 
+the upload area or click the "choose your files" button to browse.
+Step 5: uploading the files
+Step 6: After uploading the files, scroll down and click the "Commit 
+changes" button (bottom-left).
+
+
+3: create link
+Step 1: Click on the "Settings" tab (top-right corner of the repository page).
+Step 2: On the left sidebar, scroll down and select "Pages".
+
+Step 3 :In the "Source" section, select the branch as "main" and folder 
+as "/ (root)".
+Step 4 : click on save (wait for some time)
+506 Lab on Cloud Computing Page No
+Step 5: create link for files are upload
+Step 6:uploading 
+Step 7: In the "Pages" section we can create link
+
+4: View Your Live Website
+Step 1: copy the url paste on google chrome or (Click on the Visit site)
+
+
+
+
+Title: Introduction to Cloud CRM (Salesforce).
+
+
+
+
+1: Create a Salesforce Developer Account
+Step1: Go to Google Chrome.
+Step 2: Search for “Developer Edition Signup” on a browser and click on the 
+ official link 
+Step 3: Fill in your details:
+Step 4: Click on: "Sign Me Up" (Right side button)
+Step 5: Verify your email:
+
+
+A) Go to Google Chrome.
+B) Search for “Email” on a browser and click on the official link
+C)Check your inbox for the verification email from Salesforce.
+D) Click on the link in the email to verify your account.( Change Your Password )
+
+
+2: Log into Salesforce Developer Account
+Step1: Go to Google Chrome.
+Step 2: Search for “ Salesforce login ” on a browser and click on the 
+ official link 
+Step 3: Enter your
+• Username (email you used for signing up)
+• Password 
+
+
+3: Understand the Salesforce Interface
+Step 1:Enter Salesforce: Once logged in, you'll be in your Salesforce 
+environment.
+Step 2:Go to the App Launcher: On the top left, you'll see the App Launcher 
+(the icon with 9 dots).
+Step 3: Search for "Accounts": In the search bar within the App Launcher, type 
+"Accounts" and select it.
+Step 4: Create a New Account: Once you're in the Accounts section, click on 
+the "New" button to create a new account.
+Step 5:Fill in Account Information: Provide the account details
+Step 6:Save the New Account: After filling out the account details, click "Save" 
+to create the new account.
+Step 7 :Open the New Account: Once saved, you'll be taken to the new 
+account's page.
+Step 8: Create a New Contact: In the account’s details page, look for the 
+"Contacts" section and click "New" to add a new contact.
+Step 9 :Fill in Contact Information: Enter the contact details, like:
+Step 10 : Send an Email: In the new contact's page, go to the "Activity" section 
+on the right side. 
+Step 11 :Here, you'll see an option to send an email.
+Step 12:Here, send an email to Contact.
+
+
+
+Title: Data Analytics on the Cloud (Salesforce):
+
+
+1. Log in to Salesforce:
+
+Step 1: Open Google Chrome
+Step 2: search for salesforce login
+Step 3: Enter your username and password, and click the "Log in" 
+button (top-right side).
+Step 4: Verify your identity in Salesforce
+
+Step 5: Once logged in, you will be on the Salesforce dashboard.
+Step 6: Once logged in, you will be on the Salesforce dashboard.
+
+2 .Navigate to the Reports Tab
+
+Step 1: Click the "App Launcher" button (top-left corner, represented 
+by 9 dots).
+Step 2: Search for "Reports" in the search bar and click on the 
+"Reports" tab (left-side list).
+Step 3: This will take you to the Reports section where you can 
+manage and create reports.
+
+
+3: Create a New Report
+
+Step 1: On the Reports page, click the "New Report" button (top-right 
+corner).
+Step 2: Select All then you select the type of report you want to create 
+(e.g., Accounts, Opportunities, Leads).
+Step 3: Click the "Start Report" button (right).
+
+
+4: Customize Your Report
+
+Step 1: Choose your data filters by clicking on the "Filters" pane (left 
+side).
+Step 2: Click on the Created Date
+Step 3: Click on the Range select All Time and Click on the Apply
+Step 4: Click on Update Preview Automatically on the (top-right 
+corner).
+Step 5: Add Filter
+Step 6: I can select the Rating
+Step 7: Go to the Value and select any one from the dropdown list
+Step 8: the report will be sorted according to the filters you’ve applied:
+Step 9: After running the report, click the "Save & Run" button (topright corner).
+Step 10: Enter a name for your report (e.g., "Sales Performance 
+Report") and choose a folder to save it in.
+Step 11: Click the "Save" button (bottom-right).
+
+
+5.Create a Dashboard for Data Visualization
+
+
+Step 1: Go to the App Launcher button (top-left corner, represented by 
+9 dots).
+Step 2: Search for "Dashboards" and click on it (left-side list).
+Step 3: On the Dashboards page, click the "New Dashboard" button 
+(top-right corner).
+Step 4: Enter a dashboard name (e.g., "Sales Overview") and select a 
+folder to save it in.
+Step 5: Click the "Create" button (bottom-right).
+
+6: Add Components to the Dashboard
+
+Step 1: Click on "Add Component" (top-right corner).
+Step 2:Click on the Chart or Table
+Step 3: Choose a report from the list (you can use the one you created 
+earlier).
+Step 4: Click the "Add" button (bottom-right).
+Step 5: You can drag and drop components on the dashboard to arrange 
+them.
+Step 6: You can also add an image to your dashboard by clicking on the 
+“Widget” dropdown and clicking on “Image” button:
+Step 7: You can now browse and select an image you would like to add to your 
+dashboard scale(stretch) click on add
+
+
+7: Save and View the Dashboard
+
+
+Step 1: After adding all necessary components, click the "Save" button (topright corner)
+Step 2: Click the "Done" button (bottom-right) to view your completed 
+dashboard.
+
+
+
+Title: Introduction to Amazon AWS S3:
+
+
+Step-by-Step Instructions:
+Step 1: Go to Google.
+Step 2: Search for the official AWS website (or directly go to 
+aws.amazon.com).
+Step 3: Once you're on the official AWS website, click on "Create an AWS 
+account" at the top right.
+Step 4: Enter your root user email address and AWS account name, then click 
+on "Verify email address"
+Step 5: Enter the verification code that you received in your email.
+Step 6 : Set a password for your AWS account and confirm it by 
+entering it again.
+Page No.
+Step 7 : Fill in your contact information (full name, phone number, 
+address, etc.).
+Step 8: Enter your billing information (credit/debit card number, etc.).
+Step 9: Ensure your card has domestic e-commerce transactions 
+activated. If it's not activated, you won't be able to complete the signup 
+process.
+
+(If you can enter the AWS cloud)
+Once domestic e-commerce transactions are activated, you can 
+successfully enter the AWS cloud platform.
+
+
+Step 1: Now you are in the AWS Management Console (Dashboard).
+Step 2: In the search bar at the top left, type S3 
+Step 3: select S3 from the dropdown.
+Step 4: On the Amazon S3 page, click on "Create bucket".
+Page No.
+Step 5: In the Create bucket page, 
+Step 6: choose an AWS Region (select the region closest to you), 
+Step 7: Enter a name for your bucket (make sure it is globally unique).
+Step 8: Scroll down to the Block Public Access section. Uncheck the box to allow public 
+access (if you want your site to be publicly accessible).
+Step 9: Scroll down and click on "Create bucket".
+Step 10: You will see a message indicating that the bucket was successfully created.
+Step 11: Click on the name of the newly created bucket.
+Step 12: In the bucket, click on "Upload" to upload your website files (HTML, CSS, 
+etc.)..
+Step 13: Click on "Add files" to upload your files.
+Step 14: Select your HTML and CSS files and click "Open".
+Step 15: Click "Upload" to upload the files to your bucket.
+Step 16: A pop-up will appear, showing that the upload was successful.
+Step 17:Click "Close" to return to the bucket page. 
+Step 18:Back in the bucket page
+Step 19: Go to the "Permissions" tab in your bucket settings.
+Step 20: Scroll down to the Bucket Policy section and click "Edit".
+Step 21:By default, access is private. You need to add a bucket policy 
+to make the files public
+Step 22: Click on the save Changes
+Step 23: Bucket policy
+Step 24: Click on Edit
+Step 25: Generate the policy: Paste the following code into the Bucket Policy 
+Step 26:Click on the Save Changes
+Step 27:Back in the bucket page
+Step 28: Click on the name of the newly created bucket.
+Step 29:Click on the upload the files on your bucket.
+Step 30:Object url is there click on that
+Step 31:You can access you file
+
+
+
